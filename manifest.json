@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Twitter Ad Blocker",
+    "version": "1.0.0",
+    
+    "description": "Blocks promoted tweets from Twitter",
+    "icons": {
+        "16": "assets/icon16.png",
+        "48": "assets/icon48.png",
+        "128": "assets/icon128.png"
+    },
+    "author": "Darkempire78",
+    "homepage_url": "https://github.com/Darkempire78/",
+
+    "content_scripts": [
+        {
+            "matches": ["https://twitter.com/*", "https://mobile.twitter.com/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
