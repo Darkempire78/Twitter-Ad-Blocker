@@ -23,10 +23,10 @@ Or with the developer mode
 * Click on `Loading a temporary add-on`
 * Select the repository `content.js` file
 
-## Features
+<!-- ## Features
 
 <img src="" width="800"/>
-<img src="" width="800"/>
+<img src="" width="800"/> -->
 
 ## Contributing
 
