@@ -1,5 +1,4 @@
-<!-- ![](https://img.shields.io/codefactor/grade/github/Darkempire78/Github1s-Extension?style=for-the-badge) ![](https://img.shields.io/github/repo-size/Darkempire78/Github1s-Extension?style=for-the-badge) -->
-
+![](https://www.codefactor.io/repository/github/darkempire78/twitter-ad-blocker/badge?style=for-the-badge) ![](https://img.shields.io/github/repo-size/Darkempire78/Twitter-Ad-Blocker?style=for-the-badge)
 <img src="assets/icon128.png" width="100"/>
 
 # Twitter Ad Blocker
