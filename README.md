@@ -15,7 +15,7 @@ Remove promoted tweets from Twitter
 * Click on `Load unpacked`
 * Select the repository folder
 
-**FIREFOX**
+**FIREFOX** - [**Download from the Mozilla Add-Ons**](https://addons.mozilla.org/firefox/addon/twitter-ad-blocker/)
 
 Or with the developer mode
 * Download the repository
