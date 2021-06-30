@@ -28,6 +28,21 @@ Or with the developer mode
 * Block promoted trends
 * Configurable
 
+## Options
+
+**CHROME**
+* Go to `chrome://extensions/`
+* Click on `Twitter Ad Blocker details`
+* Click on `Extension options`
+
+**FIREFOX**
+* Got to `about:addons`
+* Click on `Extensions`
+* Select the extension
+* Click on `Options`
+
+<img src="assets/options.png"/>
+
 ## Discord
 
 Join the Discord server !
