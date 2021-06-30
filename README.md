@@ -24,8 +24,9 @@ Or with the developer mode
 * Select the repository `content.js` file
 
 ## Features
-* Block promoted tweet
-* Block promoted trend
+* Block promoted tweets
+* Block promoted trends
+* Configurable
 
 ## Discord
 

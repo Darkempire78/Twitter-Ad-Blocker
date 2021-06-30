@@ -10,12 +10,20 @@
         "128": "assets/icon128.png"
     },
     "author": "Darkempire78",
-    "homepage_url": "https://github.com/Darkempire78/",
+    "homepage_url": "https://github.com/Darkempire78/Twitter-Ad-Blocker",
+
+    "permissions": [
+        "storage"
+    ],
 
     "content_scripts": [
         {
             "matches": ["https://twitter.com/*", "https://mobile.twitter.com/*"],
             "js": ["content.js"]
         }
-    ]
+    ],
+
+    "options_ui": {
+        "page": "options.html"
+    }
 }
