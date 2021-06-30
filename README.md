@@ -4,7 +4,7 @@
 
 # Twitter Ad Blocker
 
-A Chrome/Firefox extension which removes promoted tweets from Twitter
+A Chrome/Firefox extension which removes promoted content from Twitter
 
 ## Installation
 
