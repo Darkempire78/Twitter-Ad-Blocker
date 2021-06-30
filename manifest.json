@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Twitter Ad Blocker",
-    "version": "1.0.0",
+    "version": "1.1.0",
     
     "description": "Blocks promoted tweets from Twitter",
     "icons": {

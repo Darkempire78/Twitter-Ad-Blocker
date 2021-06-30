@@ -4,7 +4,7 @@
 
 # Twitter Ad Blocker
 
-Remove promoted tweets from Twitter
+Remove promoted content from Twitter
 
 ## Installation
 
@@ -23,10 +23,9 @@ Or with the developer mode
 * Click on `Loading a temporary add-on`
 * Select the repository `content.js` file
 
-<!-- ## Features
-
-<img src="" width="800"/>
-<img src="" width="800"/> -->
+## Features
+* Block promoted tweet
+* Block promoted trend
 
 ## Discord
 
