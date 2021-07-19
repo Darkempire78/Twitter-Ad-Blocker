@@ -17,7 +17,7 @@ A Chrome/Firefox extension which removes promoted content from Twitter
 
 **FIREFOX** - [**Download from the Mozilla Add-Ons**](https://addons.mozilla.org/firefox/addon/twitter-ad-blocker/)
 
-Or with the developer mode
+Or with the developer mode (You may change the manifest_version to 2)
 * Download the repository
 * Go to `about:debugging#/runtime/this-firefox`
 * Click on `Loading a temporary add-on`
