@@ -29,6 +29,7 @@ Or with the developer mode
 * Configurable
 
 ## Options
+You can click on the extension icon or use the default option system
 
 **CHROME**
 * Go to `chrome://extensions/`
